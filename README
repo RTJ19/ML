@@ -1,4 +1,5 @@
-This repository contains all my ML projects
-The problem statements for each project will be mentioned in the README of that particular folder.
-Statements marked as (add on) are problem statements created by myself, probably because I felt that it would add more value or make more sense to the data or give a better result etc.
-Most of the codes have a good documentation which I believe gives a better readability. It also has extra sanity check lines or visualization graph which obviously wont be used during a deployment.  
+1.This repository contains all my ML projects
+2.The problem statements for each project will be mentioned in the README of that particular folder.
+3.Statements marked as (add on) are problem statements created by myself, probably because I felt that it would add more value or make more sense to the data or give a better result etc.
+4.Most of the codes have a good documentation which I believe gives a better readability. It also has extra sanity check lines or visualization graph which obviously wont be used during a deployment.  
+5. Hit me up if you have any issues
