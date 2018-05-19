@@ -1,0 +1,4 @@
+Problem Statement
+1. Using the movie lens dataset, build a recommendation engine to find similar users
+2. Using an interactive user input, recommend movies for a particular user where the user can input the user id and the number of movies it needs to recommend (Add on)
+3. Recommend movies for a new user by asking his/her rating for each movie (Add on) through an interactive user input (Add on)
