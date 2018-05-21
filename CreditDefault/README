@@ -1,5 +1,5 @@
 Problem Statement
 After cleaning the data find the ML algorithm that gives the best results to predict Credit Default
-Consider the Model Accuracy, F1 score, ROC curve difference betweeen Adjusted r square and r squared to determing the best model.(add on)
+Consider the Model Accuracy, F1 score, ROC curve difference between Adjusted r square and r squared to determining the best model.(add on)
 Apply dimension reduction technique such as PCA and see if there is any difference. (add on)
-Finf the minimum Principal Compnent required to give the best results. (add on)
+Find the minimum Principal Component required to give the best results. (add on)
