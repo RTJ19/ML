@@ -1,0 +1,5 @@
+Problem Statement
+1. Get the best Neural Network model for predicting Diabetes from the PIMA Diabetes dataset
+2. Run the analysis for the best combination of the hyper parameters such as number of neurons, different optimizers, loss initializers & activators. (add on)
+3. Combine the results for the above into "diabetes best.ipynb" to get the highest accuracy. (add on)
+4. Evaluate the model by analyzing the ROC curve, F1 score, r squared value and  confusion matrix. (add on)
