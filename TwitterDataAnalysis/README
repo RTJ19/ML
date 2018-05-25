@@ -1,0 +1,3 @@
+Problem Statement
+1. Clean the data and replace any outliers intelligently.
+2. Cluster the population using Kmeans and find the clusters that will be interested in sports.
