@@ -1,0 +1,4 @@
+Problem Statement
+1. Using the restaurant reviews dataset, build a NLP based model to predict positive and negative reviews
+2. Generate a wordcloud to visualize the words in each category
+3. Consider the Model Accuracy, F1 score, ROC curve difference between Adjusted r square and r squared to determining the best model.(Add on)
