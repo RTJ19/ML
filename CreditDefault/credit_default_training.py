@@ -98,7 +98,7 @@ class credit_default_training:
         print("Training Done")
 
         print("Saving File to disk...")
-        with open("credit_default_trained_model", 'wb') as fp:
+        with open("credit_default_trained_model.pickle", 'wb') as fp:
             pickle.dump(classifier, fp)
 
         print("Done")
